@@ -1,9 +1,4 @@
-#include<iostream>
-using namespace std;
-class Basic_Info{
-int roll;
-char name[50];
-char gender[10];
+
 public:
 void getdata(){
 cout<<"enter thr roll no \n";
